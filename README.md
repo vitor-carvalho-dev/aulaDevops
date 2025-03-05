@@ -1,2 +1,0 @@
-# TutorialDevOpsNovo
-oi
